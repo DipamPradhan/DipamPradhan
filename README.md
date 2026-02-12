@@ -1,5 +1,6 @@
 # 💫 About Me:
 👋 Hi there, I'm Dipam Pradhan!<br><br>🎓 I'm an undergraduate student studying CSIT in Kathmandu, Nepal, with a passion for ML/AI and Backend development.<br>
+✉️: meedipam@gmail.com
 
 
 ## 🌐 Socials:
